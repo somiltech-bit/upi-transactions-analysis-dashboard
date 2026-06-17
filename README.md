@@ -50,26 +50,24 @@ Detailed matrix/table view showing:
 - The dashboard supports fast filtering and comparison across user segments
 
 ## Repository Structure
+
+```text
 UPI-Transactions-Analysis/
-│
 ├── README.md
-│
-├── data
-|    |-upi_transactions.csv
-│
+├── data/
+│   └── upi_transactions.csv
 ├── powerbi/
 │   └── UPI_Transactions_Dashboard.pbix
-│
 ├── docs/
 │   ├── data_dictionary.md
 │   ├── cleaning_steps.md
 │   └── insights_summary.md
-│
 └── screenshots/
     ├── dashboard_page_1.png
     ├── dashboard_page_2.png
     ├── data_preview.png
     └── model_view.png
+```
 
 ## Screenshots
 Inside the screenshots folder. 
