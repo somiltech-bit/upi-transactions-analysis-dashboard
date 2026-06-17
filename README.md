@@ -65,8 +65,6 @@ UPI-Transactions-Analysis/
 └── screenshots/
     ├── dashboard_page_1.png
     ├── dashboard_page_2.png
-    ├── data_preview.png
-    └── model_view.png
 ```
 
 ## Screenshots
